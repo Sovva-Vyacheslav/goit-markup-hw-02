@@ -17,10 +17,13 @@
 
 body {
   font-family: "Roboto", "Raleway", "sans-serif";
-  background-color: #fff;
+  background-color: ##fff;
   color: var(--maim-text-color);
 }
 /* header */
+.header {
+  background-color: #FFFFFF;
+}
 .logo > span {
   color: #2196f3;
 }
@@ -114,6 +117,7 @@ body {
 }
 /* section-2 */
 
+
 .about-title {
   color: #212121;
   font-weight: 700;
@@ -124,8 +128,11 @@ body {
 .about-list {
   list-style: none;
 }
+/*  section team */
 
-/* section */
+.section-team {
+  background-color: #F5F4FA;
+}
 
 .section-team h2 {
   font-weight: 700;
